@@ -1,0 +1,16 @@
+.container {
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ccc;
+    position: relative;
+    overflow: hidden;
+}
+
+.button {
+    position: absolute;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
